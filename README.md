@@ -4,4 +4,4 @@ Official repository for **SAGE: How Well Do LLMs Align with Classical Chinese Ph
 
 Data will be released soon.
 
-The data source was stored on my laptop, and the laptop is stolen while attending the meeting. I'll try to rebuild the dataset and benchmark.
+The data source was stored on my laptop, and the laptop was stolen while my attending at the meeting. I'll try to rebuild the dataset and benchmark.
